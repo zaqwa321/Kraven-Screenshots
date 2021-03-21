@@ -24,3 +24,5 @@ Single EPG zmieniona szerokość opisu kosztem wąskiej listy - możliwość wyb
 ![alt text](https://github.com/zaqwa321/Kraven-Screenshots/blob/main/singleepg.jpg?raw=true)
 slimepg zmieniona szerokość opisu kosztem wąskiej listy - możliwość wyboru wielkości czcionki w channel list od 16 do  24
 ![alt text](https://github.com/zaqwa321/Kraven-Screenshots/blob/main/slimepg.jpg?raw=true)
+Channel selection zaqwa3. Duży widżet opisu programu, lista najbliższych programów, krótki opis następnego programu 
+![alt text](https://github.com/zaqwa321/Kraven-Screenshots/blob/main/zaqwa3.jpg?raw=true)
